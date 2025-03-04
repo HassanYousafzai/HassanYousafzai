@@ -16,7 +16,8 @@ set and passion for data-driven decision-making in a challenging AI Engineer rol
  Numpy, Pandas, Matplotlib, Scikit-learn, TensorFlow
 
 ## Education 
-#### MS. Computer Science
+#### MS. Computer Science                             City University of Information & Technology, Peshawar, PAKISTAN(2023)
+#### BS. Telecommunications Engineering               National University of Computer & Emerging Sciences NUCES-FAST PAKISTAN (2011)
 
 - 👋 Hi, I’m @HassanYousafzai
 - 👀 I’m interested in Machine learning, Artificial Intelligence & Data Science
